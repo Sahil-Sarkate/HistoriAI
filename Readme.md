@@ -9,3 +9,7 @@ A full-stack app that answers historical questions and provides relevant images 
 
 ## Setup Instructions
 See `/frontend` and `/backend` folders for setup guides.
+
+## Pixabay Link for generating API- https://pixabay.com/api/docs/
+
+## Openroter Link for generating API- https://openrouter.ai/
